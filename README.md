@@ -1,3 +1,15 @@
+# How to setup and run 
+
+Open the folder in any choice of your editor 
+Open Terminal run the followings commands 
+
+To install:
+## npm install
+To run: 
+## npm run dev 
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
